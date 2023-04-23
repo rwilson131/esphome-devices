@@ -1,8 +1,8 @@
 ---
-title: Shelly DUO GU10
+title: Shelly DUO GU10 and E27
 date-published: 2022-06-14
 type: light
-standard: eu
+standard: eu, us
 ---
 
 ## GPIO Pinout
